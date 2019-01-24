@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5242"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5238" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5240" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5854"
+       x="-0.0044831479"
+       width="1.0089663"
+       y="-0.0051650461"
+       height="1.0103301">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95000196"
+         id="feGaussianBlur5856" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="103.15749"
+     inkscape:cy="554.22799"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.76999996;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.70791841;stroke-opacity:0.92660552;filter:url(#filter5854)"
+       d="M 175.71289,295.37695 V 736.80664 H 684.28516 V 295.37695 Z m 34.90234,26.25586 h 34.91016 l -34.91016,33.7461 z m 45.50586,0 h 393.26172 v 42.20899 l -30.73633,-41.84766 -183.71707,80.91183 z m -45.50586,40.00781 75.11915,149.09459 -75.11915,156.92299 z m 438.76758,13.18946 V 675.70117 L 578.63755,516.39984 Z m -218.51367,242.25419 173.6582,99.2087 h -358.2207 z m -220.25391,57.87276 30.36133,41.33594 h -30.36133 z m 438.76758,4.27149 v 37.06445 h -38.33984 z"
+       transform="matrix(0.41364614,0,0,0.66807802,-73.154464,-196.02514)"
+       id="rect5214"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3735"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.71960253,0,0,2.9466082,-136.68331,-1230.382)"><flowRegion
+         id="flowRegion3737"><rect
+           id="rect3739"
+           width="251.42857"
+           height="95.714287"
+           x="257.14285"
+           y="441.09113" /></flowRegion><flowPara
+         id="flowPara3741"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact">L  .  F .  P . A</flowPara></flowRoot>  </g>
+</svg>
